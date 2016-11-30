@@ -1,0 +1,14 @@
+{
+  "name": "iris-reconnecting-ws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@bitbucket.org:anykao/iris-reconnecting-ws.git",
+    "type": "git"
+  },
+  "author": "meng.fanjun <xmeng.fanjun@contract.isid.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "reconnectingwebsocket": "^1.0.0"
+  }
+}
