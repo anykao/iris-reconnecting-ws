@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "reconnectingwebsocket": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.10"
   }
 }
