@@ -8,6 +8,9 @@
   },
   "author": "meng.fanjun <xmeng.fanjun@contract.isid.co.jp>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "reconnectingwebsocket": "^1.0.0"
   },
