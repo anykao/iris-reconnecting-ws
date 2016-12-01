@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "main": "client.js",
   "repository": {
-    "url": "git@bitbucket.org:anykao/iris-reconnecting-ws.git",
+    "url": "https://github.com/anykao/iris-reconnecting-ws",
     "type": "git"
   },
-  "author": "meng.fanjun <xmeng.fanjun@contract.isid.co.jp>",
+  "author": "meng.fanjun <600913@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc -p ."
   },
   "dependencies": {
     "reconnectingwebsocket": "^1.0.0"
