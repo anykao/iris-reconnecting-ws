@@ -1,13 +1,12 @@
 {
-    "compilerOptions": {
-        "module": "commonjs",
-        "sourceMap": true
-    },
-    "typeRoots": [
-      "node_modules/@types",
-      "@types"
-    ],
-    "files": [
-        "client.ts"
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "noImplicitAny": false
+  },
+
+  "files": [
+    "client.ts"
     ]
 }
