@@ -1,6 +1,6 @@
 {
   "name": "iris-reconnecting-ws",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "client.js",
   "repository": {
     "url": "https://github.com/anykao/iris-reconnecting-ws",
