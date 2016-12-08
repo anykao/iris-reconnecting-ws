@@ -27,8 +27,6 @@ var Ws = (function () {
         this.disconnectListeners = [];
         this.nativeMessageListeners = [];
         this.messageListeners = {};
-        console.log("ReconnectingWebSocket");
-        console.log(ReconnectingWebSocket);
         if (!window["WebSocket"]) {
             return;
         }
@@ -219,4 +217,3 @@ var Ws = (function () {
 }());
 exports.__esModule = true;
 exports["default"] = Ws;
-// node-modules export {Ws};
