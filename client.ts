@@ -4,8 +4,7 @@
 // -------------------------------------------------------------------------------------
 // -------------------------------------------------------------------------------------
 
-/// <reference path="reconnectingwebsocket.d.ts"/>
-import ReconnectingWebSocket from 'reconnectingwebsocket'
+import ReconnectingWebSocket = require("reconnectingwebsocket")
 
 // export to client.go:clientSource []byte
 
@@ -261,4 +260,4 @@ class Ws {
 
 }
 
-// node-modules export {Ws};
+export default Ws;
