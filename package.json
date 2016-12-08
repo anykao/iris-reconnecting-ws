@@ -1,6 +1,6 @@
 {
   "name": "iris-reconnecting-ws",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "client.js",
   "repository": {
     "url": "https://github.com/anykao/iris-reconnecting-ws",
@@ -15,6 +15,6 @@
     "reconnectingwebsocket": "^1.0.0"
   },
   "devDependencies": {
-    "typescript": "^2.0.10"
+    "typescript": "^2.1.4"
   }
 }
