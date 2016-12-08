@@ -5,7 +5,7 @@
 // -------------------------------------------------------------------------------------
 
 /// <reference path="reconnectingwebsocket.d.ts"/>
-import { ReconnectingWebSocket } from 'reconnectingwebsocket'
+import ReconnectingWebSocket from 'reconnectingwebsocket'
 
 // export to client.go:clientSource []byte
 
